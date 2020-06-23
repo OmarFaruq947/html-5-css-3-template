@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+body{
+    background-color:#F1F1F1;
+
+}
+
+#img{
+    width: 100%;
+    height: 200px;
+    border-bottom: 5px solid rgb(111, 184, 8);
+}
+
+.logo h1{
+
+    margin-top: -106px;
+    margin-left: 165px;
+    color:black;
+    font-size: 34px;
+}
+.fix{
+    overflow: hidden;
+}
+
+.childe_content{
+
+    background-color: white;
+}
+.full_content{
+    max-width: 980px;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 133px;
+    
+}
+
+.home_child h3{
+    background-color: #E1E1E1;
+    color: rgb(111, 184, 8);
+    padding: 10px 0 10px 30px ;
+    
+    border-top:1px solid #FFFFFF;
+    
+}
+
+.home_child h3:hover{
+    color: rgb(231, 199, 14);
+    font-size: 20px;
+
+}
+
+
+
+.content{
+    margin-left: 20px;
+    text-align: justify;
+    
+   
+}
+.content h1{
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #6FB808;
+
+}
+
+.content p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #222222;
+    line-height: 22px;
+}
+
+.content h3{
+    color: #555555;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.content #list{
+
+    margin-top: 20px;
+    line-height: 22px;
+    list-style: square;
+}
+
+#inline_img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    
+}
+#inline_img_2{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 18px;
+    margin-bottom: 30px;
+    
+
+}
+
+#list{
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+#table{
+    margin-bottom: 30px;
+}
+
+
+.input_of_form_1{
+    margin-left: 229px;
+    height: 26px;
+    border-radius: 3px;
+    border: 1px solid #E1E1E1;
+    width: 300px;
+
+}
+
+
+.input_of_form_2{
+    margin-left: 181px;
+    height: 26px;
+    border-radius: 3px;
+    border: 1px solid #E1E1E1;
+    width: 300px;
+
+}
+
+
+.input_of_form_3{
+    margin-left: 271px;
+    height: 175px;
+    border-radius: 3px;
+    border: 1px solid #E1E1E1;
+    width: 300px;
+
+}
+
+#send_button{
+    background-color: #6FB808;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    font-size: 17px;
+    margin-left: 480px;
+    border-radius: 3px;
+}
+
+#send_button:hover{
+    color: rgb(243, 217, 69);
+    font-size:18px;
+}
+
+
+/* footer start */
+
+
+.fotter{
+    background-color: gray;
+    margin-top: -134px;
+    padding: 20px ;
+}
+
+.fotter p{
+    color: #6FB808;
+    text-align:center;
+    font-size: 17px;
+    
+}
+
+
+
+
+/*footer end */
